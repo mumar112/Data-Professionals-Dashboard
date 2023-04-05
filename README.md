@@ -1,3 +1,2 @@
 # Data-Professionals-Dashboard
-![image](https://user-images.githubusercontent.com/90332434/229994105-1be0d5bf-dedf-4a48-b30a-f61b4b39e9f4.png)
-
+https://user-images.githubusercontent.com/90332434/229994548-d87a8913-b527-41f4-b4f0-952e086aab89.mp4
